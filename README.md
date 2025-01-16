@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham-089&label=Profile%20views&color=0e75b6&style=flat" alt="shubham-089" /> </p>
 
--💻 About Me
+-💻 About
 
--A passionate Software Development Engineer in Test (SDET) 
+-Software Development Engineer in Test (SDET) 
 
 -🌱 Learning
 
