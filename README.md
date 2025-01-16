@@ -9,12 +9,12 @@
 
 -Always improving my coding and automation skills to stay ahead of QA trends!
 
-.👋 Hi, I’m Ashish  👋 Welcome to my Profile!
-.👀 I’m Currently Working as an SDET.
-.🌱 I’m currently learning: Advanced Cypress, Selenium, and API Testing.
-.💬 Ask me about Manual Testing, PostmanAPI, Cypress, Selenium.
-.😄 Pronouns: He/Him
-.📫 How to reach me ashishdadhiich@gmail.com
+-👋 Hi, I’m Ashish  👋 Welcome to my Profile!
+-👀 I’m Currently Working as an SDET.
+-🌱 I’m currently learning: Advanced Cypress, Selenium, and API Testing.
+-💬 Ask me about Manual Testing, PostmanAPI, Cypress, Selenium.
+-😄 Pronouns: He/Him
+-📫 How to reach me ashishdadhiich@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
