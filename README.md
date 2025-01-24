@@ -64,7 +64,6 @@ Dynamic SDET/QA professional skilled in Python, Java, and testing frameworks lik
 ---
 
 ## 🌐 Links
-- **LinkedIn**: [Ashish Dadhich](https://www.linkedin.com/in/ashish-dadheech-5119041a9)  
 - **GitHub**: [ashish1dadhich412](https://github.com/ashish1dadhich412)  
 
 ---
