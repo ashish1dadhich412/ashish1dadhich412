@@ -1,8 +1,8 @@
 # Ashish Dadhich
 
-## SDET/QA Professional
+## Web Developer Professional
 
-Dynamic SDET/QA professional skilled in Python, Java, and testing frameworks like Cypress and Selenium. Experienced in designing and executing test scenarios to identify and resolve algorithmic and logic errors, ensuring software quality and reliability. I have a strong problem-solving mindset and a quick adaptability to new technologies, including Generative AI.
+Dynamic Web Developer professional skilled in Python, Java, and testing frameworks like Cypress and Selenium. Experienced in designing and executing test scenarios to identify and resolve algorithmic and logic errors, ensuring software quality and reliability. I have a strong problem-solving mindset and a quick adaptability to new technologies, including Generative AI.
 
 ---
 
@@ -32,21 +32,6 @@ Dynamic SDET/QA professional skilled in Python, Java, and testing frameworks lik
 ## 🏆 Certifications
 - **Construct Week Certificate** (January 2025)
 
----
-
-## 📂 Projects
-
-### **Practice-Software Testing**  
-[GitHub Repository](https://github.com/ashish1dadhich412/Pratice-Software-Testing)  
-- Designed and executed test scenarios targeting algorithmic and logic errors, enhancing software reliability.
-- Collaborated with team members to understand software requirements and features.
-- Developed test plans and test cases for algorithm-intensive components.
-- Documented detailed issue reports with clear reproduction steps.
-
-### **Clinical Case Manual Project**  
-[GitHub Repository](https://github.com/ashish1dadhich412/Clinic-Case--Manual-Project)  
-- Designed and executed comprehensive test scenarios to identify and resolve software issues.
-- Worked closely with developers to ensure timely resolution of bugs, enhancing software quality and reliability.
 
 ---
 
