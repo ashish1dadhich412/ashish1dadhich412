@@ -1,6 +1,6 @@
-# Ashish Dadhich
+# Ashish Dadheech
 
-## Web Developer Professional
+## Software Development Engineer in Test
 
 Dynamic Web Developer professional skilled in Python, Java, and testing frameworks like Cypress and Selenium. Experienced in designing and executing test scenarios to identify and resolve algorithmic and logic errors, ensuring software quality and reliability. I have a strong problem-solving mindset and a quick adaptability to new technologies, including Generative AI.
 
@@ -12,15 +12,6 @@ Dynamic Web Developer professional skilled in Python, Java, and testing framewor
 - **Soft Skills**: Teamwork, Time Management
 
 ---
-
-## 💼 Work Experience
-
-### **Frontend Developer**  
-**Regal Outsource Private Limited**  
-- Collaborated with the development team to address algorithmic and logic errors, ensuring seamless application performance.
-- Designed and executed detailed test scenarios to identify and report software issues, significantly improving software quality.
-- Documented and reported issues with comprehensive steps for reproduction, facilitating timely resolutions.
-
 ---
 
 ## 📚 Education
